@@ -4,7 +4,7 @@
 
 Sunflower project in progress using Next.js, Module.scss and jsonPlaceholder.
 
-<![Screenshot](https://user-images.githubusercontent.com/20776888/115528150-11a6c880-a292-11eb-8177-56fd89f0a57c.jpg)>
+![Screenshot](https://user-images.githubusercontent.com/20776888/115528150-11a6c880-a292-11eb-8177-56fd89f0a57c.jpg)
 
 ### Prerequisites
 
