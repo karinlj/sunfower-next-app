@@ -1,0 +1,28 @@
+.card {
+  max-width: 800px;
+  margin-top: 3rem;
+  @media (max-width: 600px) {
+    width: 100%;
+  }
+  padding: 3rem 1.5rem;
+  text-align: center;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 10px;
+  background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.6));
+  //  border: 1px solid #eaeaea;
+  .heading {
+    color: #fff;
+    text-align: center;
+  }
+  .content {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    text-align: center;
+    color: #fff;
+  }
+  .link {
+    color: #8cff66;
+    font-weight: 600;
+  }
+}
