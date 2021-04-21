@@ -1,34 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sunflower Next.js app 2021
 
-## Getting Started
+### Description
 
-First, run the development server:
+Sunflower project in progress using Next.js, Module.scss and jsonPlaceholder.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+<![Screenshot](https://user-images.githubusercontent.com/20776888/115528150-11a6c880-a292-11eb-8177-56fd89f0a57c.jpg)>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Prerequisites
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+NodeJS
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Installation
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+To clone
 
-## Learn More
+`git clone https://github.com/karinlj/sunfower-next-app.git`
 
-To learn more about Next.js, take a look at the following resources:
+To install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+`npm install`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+To run
 
-## Deploy on Vercel
+`npm run dev`
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built With
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- Next.js
+- jsonPlaceholder
+- Module.scss
+
+### Author
+
+- **Karin Ljunggren** - [karinlj](https://github.com/karinlj)
+
+### Acknowledgements
+
+Thank's to [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
